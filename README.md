@@ -21,6 +21,7 @@ Every guide follows the same structure: analogy first, then the real explanation
 | [TypeScript](guides/typescript/) | How TypeScript works: types, interfaces, generics, React patterns, reading errors, and why strict mode catches bugs before your users do |
 | [Docker](guides/docker/) | How Docker works: images, containers, Dockerfiles, Compose, volumes, multi-stage builds, and the mistakes that bloat your images |
 | [Deployment and CI/CD](guides/deployment-cicd/) | How deployment and CI/CD work: Vercel, GitHub Actions, preview deploys, rollbacks, monitoring, and the pipeline that ships your code safely |
+| [DNS and Domains](guides/dns-domains/) | How DNS and domains work: record types, nameservers, SSL certificates, subdomains, propagation, and connecting a domain to your app |
 
 *Coming soon — guides will be listed here as they're created.*
 
