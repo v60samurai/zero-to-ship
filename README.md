@@ -13,6 +13,7 @@ Every guide follows the same structure: analogy first, then the real explanation
 | Topic | What You'll Learn |
 |-------|------------------|
 | [Git](guides/git/) | Version control, branches, commits, and the workflow that keeps your codebase safe |
+| [RAG](guides/rag/) | How to make AI answer questions from your own documents using embeddings, vector search, and LLMs |
 
 *Coming soon — guides will be listed here as they're created.*
 
