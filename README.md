@@ -12,6 +12,7 @@ Every guide follows the same structure: analogy first, then the real explanation
 |-------|------------------|
 | [Git](guides/git/) | Version control, branches, commits, and the workflow that keeps your codebase safe |
 | [RAG](guides/rag/) | How to make AI answer questions from your own documents using embeddings, vector search, and LLMs |
+| [Prompt Engineering](guides/prompt-engineering/) | How to write prompts that get consistent, useful results from AI models, from basic techniques to production patterns and prompt injection defense |
 
 *Coming soon — guides will be listed here as they're created.*
 
