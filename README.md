@@ -19,6 +19,7 @@ Every guide follows the same structure: analogy first, then the real explanation
 | [Databases and SQL](guides/databases-sql/) | How databases and SQL work: tables, queries, JOINs, indexes, relationships, ORMs, migrations, and the mistakes that kill performance |
 | [Authentication and OAuth](guides/auth-oauth/) | How authentication and OAuth work: sessions, JWTs, social login, password hashing, and why you should use an auth library |
 | [TypeScript](guides/typescript/) | How TypeScript works: types, interfaces, generics, React patterns, reading errors, and why strict mode catches bugs before your users do |
+| [Docker](guides/docker/) | How Docker works: images, containers, Dockerfiles, Compose, volumes, multi-stage builds, and the mistakes that bloat your images |
 
 *Coming soon — guides will be listed here as they're created.*
 
