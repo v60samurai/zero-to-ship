@@ -15,6 +15,7 @@ Every guide follows the same structure: analogy first, then the real explanation
 | [Prompt Engineering](guides/prompt-engineering/) | How to write prompts that get consistent, useful results from AI models, from basic techniques to production patterns and prompt injection defense |
 | [LLM APIs](guides/llm-apis/) | How to use LLM APIs from OpenAI, Anthropic, and others: tokens, streaming, function calling, structured outputs, and cost management |
 | [AI Agents](guides/ai-agents/) | How AI agents work: the observe-think-act loop, tool use, planning, memory, multi-agent systems, and guardrails for production |
+| [APIs and REST](guides/apis-rest/) | How APIs and REST work: HTTP methods, status codes, authentication, pagination, rate limiting, and building your own API |
 
 *Coming soon — guides will be listed here as they're created.*
 
