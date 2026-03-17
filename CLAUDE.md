@@ -171,6 +171,7 @@ Before considering a guide done, verify:
 ### Updating the Index
 
 After creating any new guide, update the root `README.md` to include the new guide in the topic list with a one-line description.
+IMPORTANT: Do not create a new Guides section or table. Find the existing Guides table in README.md and append a new row to it. If the table already has the topic listed, update the description instead of adding a duplicate row.
 
 ## Commands
 
