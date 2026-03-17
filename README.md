@@ -20,6 +20,7 @@ Every guide follows the same structure: analogy first, then the real explanation
 | [Authentication and OAuth](guides/auth-oauth/) | How authentication and OAuth work: sessions, JWTs, social login, password hashing, and why you should use an auth library |
 | [TypeScript](guides/typescript/) | How TypeScript works: types, interfaces, generics, React patterns, reading errors, and why strict mode catches bugs before your users do |
 | [Docker](guides/docker/) | How Docker works: images, containers, Dockerfiles, Compose, volumes, multi-stage builds, and the mistakes that bloat your images |
+| [Deployment and CI/CD](guides/deployment-cicd/) | How deployment and CI/CD work: Vercel, GitHub Actions, preview deploys, rollbacks, monitoring, and the pipeline that ships your code safely |
 
 *Coming soon — guides will be listed here as they're created.*
 
