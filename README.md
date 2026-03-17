@@ -14,6 +14,7 @@ Every guide follows the same structure: analogy first, then the real explanation
 | [RAG](guides/rag/) | How to make AI answer questions from your own documents using embeddings, vector search, and LLMs |
 | [Prompt Engineering](guides/prompt-engineering/) | How to write prompts that get consistent, useful results from AI models, from basic techniques to production patterns and prompt injection defense |
 | [LLM APIs](guides/llm-apis/) | How to use LLM APIs from OpenAI, Anthropic, and others: tokens, streaming, function calling, structured outputs, and cost management |
+| [AI Agents](guides/ai-agents/) | How AI agents work: the observe-think-act loop, tool use, planning, memory, multi-agent systems, and guardrails for production |
 
 *Coming soon — guides will be listed here as they're created.*
 
