@@ -8,6 +8,12 @@ Every guide follows the same structure: analogy first, then the real explanation
 
 ## Guides
 
+## Guides
+
+| Topic | What You'll Learn |
+|-------|------------------|
+| [Git](guides/git/) | Version control, branches, commits, and the workflow that keeps your codebase safe |
+
 *Coming soon — guides will be listed here as they're created.*
 
 <!-- Template for adding guides:
