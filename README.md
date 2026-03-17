@@ -17,6 +17,7 @@ Every guide follows the same structure: analogy first, then the real explanation
 | [AI Agents](guides/ai-agents/) | How AI agents work: the observe-think-act loop, tool use, planning, memory, multi-agent systems, and guardrails for production |
 | [APIs and REST](guides/apis-rest/) | How APIs and REST work: HTTP methods, status codes, authentication, pagination, rate limiting, and building your own API |
 | [Databases and SQL](guides/databases-sql/) | How databases and SQL work: tables, queries, JOINs, indexes, relationships, ORMs, migrations, and the mistakes that kill performance |
+| [Authentication and OAuth](guides/auth-oauth/) | How authentication and OAuth work: sessions, JWTs, social login, password hashing, and why you should use an auth library |
 
 *Coming soon — guides will be listed here as they're created.*
 
