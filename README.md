@@ -23,6 +23,7 @@ Every guide follows the same structure: analogy first, then the real explanation
 | [Deployment and CI/CD](guides/deployment-cicd/) | How deployment and CI/CD work: Vercel, GitHub Actions, preview deploys, rollbacks, monitoring, and the pipeline that ships your code safely |
 | [DNS and Domains](guides/dns-domains/) | How DNS and domains work: record types, nameservers, SSL certificates, subdomains, propagation, and connecting a domain to your app |
 | [WebSockets](guides/websockets/) | How WebSockets and real-time communication work: polling, SSE, Socket.IO, rooms, scaling, reconnection, and streaming LLM responses |
+| [How the Internet Works](guides/how-the-internet-works/) | How requests travel from browser to server and back: DNS, TCP, TLS, HTTP, packets, CDNs, and debugging network issues |
 
 *Coming soon — guides will be listed here as they're created.*
 
